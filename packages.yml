@@ -1,0 +1,4 @@
+name: kaggle
+channels:
+  - defaults
+prefix: /Users/salvatorebramante/miniconda3/envs/kaggle
